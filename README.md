@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey, I'm Dimskii A web developer
+Hey 👋, I'm Dimskii A web developer
+Spotify Geek
 
 
 # 💻 Tech Stack:
