@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋, im Sifatbeer, a web developer<br>Spotify Geek
+Hey 👋, im Sifatbeer, a web developer<br>Spotify Geek<br>student
 
 
 # 💻 Tech Stack:
