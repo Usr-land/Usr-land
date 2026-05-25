@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi There :)
+im Dimskii, a web guy good in web developing
 
-<!--
-**Usr-land/Usr-land** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im very cool
 
-Here are some ideas to get you started:
+### Coding laguages that I know
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### languages that im learning
+- JavaScript
+
+### Goals 
+1. Be good in coding
+2. create a good project
+3. be popular
+4. be happy :)
